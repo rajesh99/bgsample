@@ -1,0 +1,10 @@
+dispatch:
+  # Send all listing traffic to the listing frontend.
+- url: "*/prolisting/*"
+  service: prolisting
+- url: "*/prolisting"
+  service: prolisting
+- url: "servicefoldertest.appspot.com/prolisting/*"
+  service: prolisting
+- url: "servicefoldertest.appspot.com/prolisting"
+  service: prolisting  
