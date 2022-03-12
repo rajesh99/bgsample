@@ -4,7 +4,5 @@ dispatch:
   service: prolisting
 - url: "*/prolisting"
   service: prolisting
-- url: "servicefoldertest.appspot.com/prolisting/*"
-  service: prolisting
-- url: "servicefoldertest.appspot.com/prolisting"
-  service: prolisting  
+- url: "*/*"
+  service: default
