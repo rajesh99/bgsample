@@ -4,4 +4,8 @@ dispatch:
   service: prolisting
 - url: "*/prolisting"
   service: prolisting
+- url: "*/gatsby/*"
+  service: gatsby
+- url: "*/gatsby"
+  service: gatsby
 

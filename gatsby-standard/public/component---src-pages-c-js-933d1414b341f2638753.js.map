@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-c-js-933d1414b341f2638753.js","mappings":"gJAIA,UAFU,kBAAM","sources":["webpack://using-path-prefix/./src/pages/c.js"],"sourcesContent":["import React from \"react\"\n\nconst C = () => <p>C</p>\n\nexport default C\n"],"names":[],"sourceRoot":""}

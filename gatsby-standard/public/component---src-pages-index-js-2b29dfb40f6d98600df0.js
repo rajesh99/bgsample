@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkusing_path_prefix=self.webpackChunkusing_path_prefix||[]).push([[678],{6558:function(e,t,l){l.r(t);var n=l(7294),r=l(1597);t.default=function(){return n.createElement("div",null,n.createElement("h1",null,"Using prefixed paths"),n.createElement("ul",null,n.createElement("li",null,n.createElement(r.rU,{to:"/a/"},"A")),n.createElement("li",null,n.createElement(r.rU,{to:"/b/"},"B")),n.createElement("li",null,n.createElement(r.rU,{to:"/c/"},"C"))))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2b29dfb40f6d98600df0.js.map

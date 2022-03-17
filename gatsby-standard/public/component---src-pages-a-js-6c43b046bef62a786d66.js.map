@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-a-js-6c43b046bef62a786d66.js","mappings":"gJAIA,UAFU,kBAAM","sources":["webpack://using-path-prefix/./src/pages/a.js"],"sourcesContent":["import React from \"react\"\n\nconst A = () => <p>A</p>\n\nexport default A\n"],"names":[],"sourceRoot":""}
