@@ -8,4 +8,8 @@ dispatch:
   service: gatsby
 - url: "*/gatsby"
   service: gatsby
+- url: "*/gatsby-express/*"
+  service: gatsby-express
+- url: "*/gatsby-express"
+  service: gatsby-express
 
