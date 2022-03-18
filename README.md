@@ -5,12 +5,14 @@
 The appengine standard main server with a dispatch.yaml
 ## 2. prolisting-standard
 service: prolisting
+
 routing: bgsample.appspot.com/prolisting
 
 The appengine standard deployed as prolisting service
 
 ## 3. gatsby-standard
 service: gatsby
+
 routing: bgsample.appspot.com/gatsby
 
 gatsby project: The 'gatsby build' files are in the public folder.
@@ -36,6 +38,7 @@ The requested URL /gatsby/a/ was not found on this server."
 
 ## 4. gatsby-express-standard
 service: gatsby-express
+
 routing: bgsample.appspot.com/gatsby-express
 
 Use the plugin 'https://github.com/wille/gatsby-plugin-express'
